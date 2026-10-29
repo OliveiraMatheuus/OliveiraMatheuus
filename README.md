@@ -20,23 +20,24 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-**Bancos de Dados & Ferramentas**
+**Bancos de Dados, Ferramentas & Design**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
 <br/>
 
 ## 📊 Estatísticas
 
-<a href="https://github.com/OliveiraMatheuus">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OliveiraMatheuus&theme=dark&show_icons=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMatheuus&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OliveiraMatheuus&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OliveiraMatheuus&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ## 🌐 Onde me encontrar
 
